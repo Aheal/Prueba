@@ -1,0 +1,62 @@
+/*==================
+Correcciones a los estilos de AdminLTE y bootstrap
+Alejandro Medina
+===================*/
+li.menu-option:hover{margin-left: 10px;transition: .5s;}
+#main-content h3{color: #3498db;font-weight: bold;}
+#form-box{border-radius: 10px;background: #3498db;width: 350px;height: 250px;margin-top: -30px;}
+.gallery-image{width: 100%;margin: 5px;}
+.main-sidebar{position: fixed;}
+
+#section-video{
+    padding: 20px;
+}
+#video-background{
+    position: relative;
+    margin: 0 auto;
+    width: 700px;
+    height: 200px;
+    overflow: hidden;
+}
+#video-background video{
+    position: absolute;
+    top: -50px;
+    width: 700px;
+}
+#maskimage{
+    height: 200px;
+    top:0px;
+    left: 0px;
+    z-index: 2; 
+    position: absolute;
+    width: 100%;
+}
+
+#instagram-feed{
+    padding: 20px;
+    text-align: center;
+}
+
+#insta-logo{
+    width: 300px;
+}
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery:hover {
+    border: 1px solid #777;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
