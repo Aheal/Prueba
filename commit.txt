@@ -1,4 +1,4 @@
-commit d9411233d8d773c806ffb1ffc13189fec47c90be
+commit d9411233d8d773c806ffb1ffc13189fec47c90be 
 Author: Aheal <alejandroalamina@hotmail.com>
 Date:   Wed Jul 12 18:15:36 2017 -0500
 
@@ -6,7 +6,7 @@ Date:   Wed Jul 12 18:15:36 2017 -0500
 
 
 commit fcd7ef28ee58c881b711b958364a00b3c9765dd9
-Author: Aheal <alejandroalamina@hotmail.com>
+ Author: Aheal <alejandroalamina@hotmail.com>
 Date:   Wed Jul 12 18:05:05 2017 -0500
 
     Iniciamos
